@@ -13,7 +13,7 @@ The assistant uses sample order and package data to simulate interactions and pr
 - **Guided Support**: Provides users with help and instructions to interact with the chatbot.
 
 ## Demo
-![Chat UI Screenshot](screenshot.png)
+![Chat UI Screenshot](A70F7F8A-633A-462E-9838-3685EE0959B9.jpeg)
 
 ## Getting Started
 Follow these steps to run the project locally.
